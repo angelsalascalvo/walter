@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81423288604",
+    "firebase_url": "https://walter-rutillastoby.firebaseio.com",
+    "project_id": "walter-rutillastoby",
+    "storage_bucket": "walter-rutillastoby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81423288604:android:c9516d47c837a744",
+        "android_client_info": {
+          "package_name": "com.rutillastoby.walter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81423288604-bn5ep5su5omnp159vu5f370unhq5q0bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsS5yQWGWWhEy-jrgyLIZ6-7M_iN8llrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81423288604-bn5ep5su5omnp159vu5f370unhq5q0bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

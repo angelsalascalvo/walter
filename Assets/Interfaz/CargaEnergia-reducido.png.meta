@@ -1,0 +1,3134 @@
+fileFormatVersion: 2
+guid: c61d418a0fcfd00408af643b8935266d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CargaEnergia-reducido_0
+    21300002: CargaEnergia-reducido_1
+    21300004: CargaEnergia-reducido_2
+    21300006: CargaEnergia-reducido_3
+    21300008: CargaEnergia-reducido_4
+    21300010: CargaEnergia-reducido_5
+    21300012: CargaEnergia-reducido_6
+    21300014: CargaEnergia-reducido_7
+    21300016: CargaEnergia-reducido_8
+    21300018: CargaEnergia-reducido_9
+    21300020: CargaEnergia-reducido_10
+    21300022: CargaEnergia-reducido_11
+    21300024: CargaEnergia-reducido_12
+    21300026: CargaEnergia-reducido_13
+    21300028: CargaEnergia-reducido_14
+    21300030: CargaEnergia-reducido_15
+    21300032: CargaEnergia-reducido_16
+    21300034: CargaEnergia-reducido_17
+    21300036: CargaEnergia-reducido_18
+    21300038: CargaEnergia-reducido_19
+    21300040: CargaEnergia-reducido_20
+    21300042: CargaEnergia-reducido_21
+    21300044: CargaEnergia-reducido_22
+    21300046: CargaEnergia-reducido_23
+    21300048: CargaEnergia-reducido_24
+    21300050: CargaEnergia-reducido_25
+    21300052: CargaEnergia-reducido_26
+    21300054: CargaEnergia-reducido_27
+    21300056: CargaEnergia-reducido_28
+    21300058: CargaEnergia-reducido_29
+    21300060: CargaEnergia-reducido_30
+    21300062: CargaEnergia-reducido_31
+    21300064: CargaEnergia-reducido_32
+    21300066: CargaEnergia-reducido_33
+    21300068: CargaEnergia-reducido_34
+    21300070: CargaEnergia-reducido_35
+    21300072: CargaEnergia-reducido_36
+    21300074: CargaEnergia-reducido_37
+    21300076: CargaEnergia-reducido_38
+    21300078: CargaEnergia-reducido_39
+    21300080: CargaEnergia-reducido_40
+    21300082: CargaEnergia-reducido_41
+    21300084: CargaEnergia-reducido_42
+    21300086: CargaEnergia-reducido_43
+    21300088: CargaEnergia-reducido_44
+    21300090: CargaEnergia-reducido_45
+    21300092: CargaEnergia-reducido_46
+    21300094: CargaEnergia-reducido_47
+    21300096: CargaEnergia-reducido_48
+    21300098: CargaEnergia-reducido_49
+    21300100: CargaEnergia-reducido_50
+    21300102: CargaEnergia-reducido_51
+    21300104: CargaEnergia-reducido_52
+    21300106: CargaEnergia-reducido_53
+    21300108: CargaEnergia-reducido_54
+    21300110: CargaEnergia-reducido_55
+    21300112: CargaEnergia-reducido_56
+    21300114: CargaEnergia-reducido_57
+    21300116: CargaEnergia-reducido_58
+    21300118: CargaEnergia-reducido_59
+    21300120: CargaEnergia-reducido_60
+    21300122: CargaEnergia-reducido_61
+    21300124: CargaEnergia-reducido_62
+    21300126: CargaEnergia-reducido_63
+    21300128: CargaEnergia-reducido_64
+    21300130: CargaEnergia-reducido_65
+    21300132: CargaEnergia-reducido_66
+    21300134: CargaEnergia-reducido_67
+    21300136: CargaEnergia-reducido_68
+    21300138: CargaEnergia-reducido_69
+    21300140: CargaEnergia-reducido_70
+    21300142: CargaEnergia-reducido_71
+    21300144: CargaEnergia-reducido_72
+    21300146: CargaEnergia-reducido_73
+    21300148: CargaEnergia-reducido_74
+    21300150: CargaEnergia-reducido_75
+    21300152: CargaEnergia-reducido_76
+    21300154: CargaEnergia-reducido_77
+    21300156: CargaEnergia-reducido_78
+    21300158: CargaEnergia-reducido_79
+    21300160: CargaEnergia-reducido_80
+    21300162: CargaEnergia-reducido_81
+    21300164: CargaEnergia-reducido_82
+    21300166: CargaEnergia-reducido_83
+    21300168: CargaEnergia-reducido_84
+    21300170: CargaEnergia-reducido_85
+    21300172: CargaEnergia-reducido_86
+    21300174: CargaEnergia-reducido_87
+    21300176: CargaEnergia-reducido_88
+    21300178: CargaEnergia-reducido_89
+    21300180: CargaEnergia-reducido_90
+    21300182: CargaEnergia-reducido_91
+    21300184: CargaEnergia-reducido_92
+    21300186: CargaEnergia-reducido_93
+    21300188: CargaEnergia-reducido_94
+    21300190: CargaEnergia-reducido_95
+    21300192: CargaEnergia-reducido_96
+    21300194: CargaEnergia-reducido_97
+    21300196: CargaEnergia-reducido_98
+    21300198: CargaEnergia-reducido_99
+    21300200: CargaEnergia-reducido_100
+    21300202: CargaEnergia-reducido_101
+    21300204: CargaEnergia-reducido_102
+    21300206: CargaEnergia-reducido_103
+    21300208: CargaEnergia-reducido_104
+    21300210: CargaEnergia-reducido_105
+    21300212: CargaEnergia-reducido_106
+    21300214: CargaEnergia-reducido_107
+    21300216: CargaEnergia-reducido_108
+    21300218: CargaEnergia-reducido_109
+    21300220: CargaEnergia-reducido_110
+    21300222: CargaEnergia-reducido_111
+    21300224: CargaEnergia-reducido_112
+    21300226: CargaEnergia-reducido_113
+    21300228: CargaEnergia-reducido_114
+    21300230: CargaEnergia-reducido_115
+    21300232: CargaEnergia-reducido_116
+    21300234: CargaEnergia-reducido_117
+    21300236: CargaEnergia-reducido_118
+    21300238: CargaEnergia-reducido_119
+    21300240: CargaEnergia-reducido_120
+    21300242: CargaEnergia-reducido_121
+    21300244: CargaEnergia-reducido_122
+    21300246: CargaEnergia-reducido_123
+    21300248: CargaEnergia-reducido_124
+    21300250: CargaEnergia-reducido_125
+    21300252: CargaEnergia-reducido_126
+    21300254: CargaEnergia-reducido_127
+    21300256: CargaEnergia-reducido_128
+    21300258: CargaEnergia-reducido_129
+    21300260: CargaEnergia-reducido_130
+    21300262: CargaEnergia-reducido_131
+    21300264: CargaEnergia-reducido_132
+    21300266: CargaEnergia-reducido_133
+    21300268: CargaEnergia-reducido_134
+    21300270: CargaEnergia-reducido_135
+    21300272: CargaEnergia-reducido_136
+    21300274: CargaEnergia-reducido_137
+    21300276: CargaEnergia-reducido_138
+    21300278: CargaEnergia-reducido_139
+    21300280: CargaEnergia-reducido_140
+    21300282: CargaEnergia-reducido_141
+    21300284: CargaEnergia-reducido_142
+    21300286: CargaEnergia-reducido_143
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40951dbfbfaae49bf011a2dda537cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423bf7b7428eb3e4ea2dc86e073ff0a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586de8316ef235a4b99d7975092ebf29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff5d0a044e4b8543a67cac33f0c0317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292ccac661f9d344a4752532d95be0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959546c6fa02d89459aca790c4a1517b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef664ed072ce6c641a8dad108e308ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6993cba8e01d5418218a9af4ba95c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa9391167b281419ce3eb90d4f1dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3a8a146451513439311e30b7b95817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ec17b07f685541b6f9ea1a6a397cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a3264def782704bbffaeb09406dad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1898
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b47707880584b4791a2d00ef4f5950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e934c3bbbfb9e84aa14d40647d42256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8eb5352ff696246a5b5504cc26e11d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115dd81250254694aa340d60772c9294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b4d94ccd5925645bbf5375e3212a21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455b729d3bdf42642beb49fec1ffe2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82220bb762d84408afcfa567460793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27faafdcafbd814081cc9be789d7b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_20
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b00bc984c6bf14599f7026b1e66b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6308a8532ff798e4392e18a59c7355ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_22
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2b8f2f5ea31874093c46090efafc0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c96038662f4944eb0f41d2916371e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_24
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bbcf55d9730b44eac4ecdece1f730a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1748
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6efba3cb0ed646b9e6c854ecf65d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762dd275ca3ebc40895efdbff5a56f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defc2af1dd8653e49a37f6d012aa22ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f356c83566a1c364e8823496323c4f26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd26ab63aa7c6be4b9e33dac730581b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e80225e7382534481e6cff704c6a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eaf845012576048bcfcc7d21642249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82453f22e6a10454b9e18f3c73d9493a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_33
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66aa473797259e4b83d77c42e1f083b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c5a3ab585274b479d1c5aba0a32d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_35
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9022a634cb831e1499751126bffa9d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee68981d7aa29428c987428f9699f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_37
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6208579c8f9d2f144afff53e27048f8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1598
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e991d27372de44a612b0d964e18de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faef5179b810fe4b877ccee714bb78b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517efecd8d8ea9b44993a38679e5881b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb32669345c09b74eac61a21d76325a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca75c09ca1a0444b3157975327c2d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0cffefe2924e4b83a120c0f1d5cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_44
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3abe28dbba3be4b9a8ced6fd1e5552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc79d0626325e34095e0917dceb23bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_46
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117c8fe026b5c84799e43f6011eaa2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_47
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1adde4488d459d44984d73fdd5da079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_48
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a58a4c31180545a2062ddbadc2055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_49
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fcd893c596d814798e58f62ea9b39d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_50
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3030d9befea82f4438e376917297d9fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_51
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1448
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7cf10a5753f4e458c3478ef15415d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e94637b9554c45b842f0bb3c1e7d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebaf9c9708c47d49bd5309001c6257d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55583a868d8ef8547bb6b1c431c51cdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_55
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d337c6296312d3640bacfba6e45603ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc81a6074bf5224e8b21a0f267d0e5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_57
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b2f2004991b34f9ce55e87f2c8d85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106d24484f7ce341bf3e10e40e11b88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_59
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350a95550f4bacb47a2bbccac0409680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_60
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a5caf10f8f284f91278ba3f862b2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_61
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e437dabdf6f8a1428b8e21d5324d10d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_62
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c5c17eceb380439e851efeee41013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_63
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3c27a1d4581b4e862a190e0369e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_64
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1298
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6d3127764bdbe468c4c394d30324f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0956810975fe7341820961b647b455e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cffff818119b047ab8255c8c77bdc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a2836c2d79ec549bbf91311f89cd19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c97a54fe85d84141a8d84336b0c44ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797af8918bb0edb4abd2a229c94881b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_70
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbeafb4f83747c4884ff6f0d54fce52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_71
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f091842a7a42e24d93a229eae5857a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_72
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddae0fb7f66de748909751487af9e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_73
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bffe9077d5e0f54cb979dbb45086c63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_74
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af17a191bc91d76478201b996091f3ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_75
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206b1b660bc3e584b98b9939f9a79f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_76
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33624cb711ca424ca33b3d76fc31ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_77
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1148
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7bb1c0525191240ae4250dc05b8fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64324c95c835c2448686ccc7d1843d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_79
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bbaa3f2897e7444be5e8dbacbd829b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_80
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3642aba5e67fadc498132edf28cb4cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_81
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a07a5ab86ee1d40a0de2187fbcfa69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7910e13c3316829499208f66ef8ac3da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_83
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d5f35387efcf4ebb21ac38a364dc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_84
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64549db8a02cab04cb458b9d7acd9cac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_85
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9fa15eebf35a4cb917d99e843cfcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cb216d07694bf4ca0085dae1932c72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_87
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378cc85a7a698514e9e04b4dc36b471d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_88
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8772dd38e543c4995761a3fd9a541e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_89
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9c31be091503448b1b5799f2ab176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_90
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 998
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2efbc1dd841cd41b53d59de25535b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7fb8d54974ef46a6124ee37c9f593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_92
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff745ed0a57378458662de6f78fcceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_93
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f285eb0a83fe42b1a11ed1f186467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_94
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e7a4ab17453845a57d2af034ec1c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_95
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f77d5f3cb17834baf41f998101837d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_96
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1693c919cdcc54a83669f61cf7fe2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_97
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f7bc453b3f0b4a9716e9efd313748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_98
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5274a248ca8bc41b1c908d2394ef5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_99
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91534e9b3f1e09f4787be9a78c877323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_100
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3753784d6962d8e4899ec229809f2ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_101
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2d548a158c8a42ab48dbc4c2439aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_102
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd2d0522ae42c34d8c182f3b972984f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_103
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 848
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67129736ad1a4f54e99c41a5ad31c79d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639bd51ff8463043babbc5271d06e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68c9570f50bc449add9b3680b49020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_106
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3293422670fdfd41bab18fa50069fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_107
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f18fb6d301e1b4588b2f8d7a03138d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_108
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e864f497c4cba4789b678957632d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_109
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9032e1612ac276b4fb96f04c4619d793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_110
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e2a985c210f534596f64a70a2c2966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_111
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c5600c75b4d9444931db67200c2b24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_112
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ada5205706f54d89989ac94aaabb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_113
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b5379a7abaa7d47965e4236debd0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_114
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115b9aace3206e744a70d83420728fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_115
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a658c5c9e11e53643979f8caa3a00c4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_116
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 698
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649affaff089ecd47ae80c04a53e444e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cae35a344d3a3b4f92cb6ba45c1ddec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_118
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4cba8b0c9e51847b23355f3526cee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_119
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce3d84be3dd814ab5eab3fb637d6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_120
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e942fb33bac34eb0701ad7a9cb0c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacc456e332d46c4b91660d87e294591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_122
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadca7055df5b4d4e91c82f031b19ca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_123
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317ee30fa94ff7b47b34121d7ef4ea65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_124
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76eac52d84c2434e90448cd96586234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e74b55fea56b418225e5e54d0f20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_126
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcae881cb04e59468ba937d969d369e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_127
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d04cbcee848af84da0b85a56536cb69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_128
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc8a031c57fc5c468689b85130656e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_129
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 548
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a10ad6941f78419b601b2893c8206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb8b2fe7f79c4343a40173818e73262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_131
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e990517b9d65f149a88d1d7efb140d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_132
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36e7f578f276f47a0aa154355ffb1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_133
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ae93342fad634fa1e7a972a81c7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_134
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88546f630a1f0a94abd8081ba1d7a150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_135
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0048e87e86b594fa9ee3bf74ad5176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_136
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186bfacf9e4372d49af5f3474799fc0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_137
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f834c2c383e0a44b4856abdd527a50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_138
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d39f308dec9144cb5675b15769b130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_139
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fca6e5aeb5e441b02feea2ff5a0eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_140
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d41c215a41b08c43958fc33cc2ce553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_141
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d67b3bae41528418b7d88e9bc46de3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_142
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 398
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c307a2c4a2a84fb2db14c0fee4832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargaEnergia-reducido_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259bcbd1a2128d04083ff67428c43cd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0a83d9087c58614abeae6e7070de07a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
