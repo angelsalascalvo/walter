@@ -57,6 +57,7 @@ sysinfo.txt
 
 # Builds
 *.apk
+!walter_v021.apk
 *.aab
 *.unitypackage
 
